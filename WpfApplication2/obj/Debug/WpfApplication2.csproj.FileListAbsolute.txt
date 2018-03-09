@@ -1,0 +1,14 @@
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+c:\users\eltbell\documents\visual studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Calculator.exe.config
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Calculator.exe
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\Calculator.pdb
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator.g.resources
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator.exe
+C:\Users\elTbell\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\Calculator.pdb
